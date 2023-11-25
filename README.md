@@ -14,7 +14,7 @@ Algorithms / Techniques used:
 - K-means Clustering
 - Count vectorizer
 - PCA, t-SNE
-
+Note: Remove code lines related to anvil server
 # License
 This repo is licensed under [GNU GPL v3](https://choosealicense.com/licenses/gpl-3.0/).
 
